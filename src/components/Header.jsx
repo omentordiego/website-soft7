@@ -45,7 +45,7 @@ const Header = () => {
                         </a>
                     ))}
                     <Button
-                        href="https://app.sollertis.com.br"
+                        href="https://wa.me/5534984251064?text=Opa%2C%20fala%20Isa%21%20Vim%20pelo%20site%20e%20queria%20saber%20mais%20sobre%20a%20empresa%21"
                         variant="primary"
                         className="px-6 py-2.5 text-sm"
                     >
@@ -81,7 +81,7 @@ const Header = () => {
                                 </a>
                             ))}
                             <a
-                                href="https://app.sollertis.com.br"
+                                href="https://wa.me/5534984251064?text=Opa%2C%20fala%20Isa%21%20Vim%20pelo%20site%20e%20queria%20saber%20mais%20sobre%20a%20empresa%21"
                                 className="w-full text-center py-3 rounded-xl bg-primary text-white font-bold"
                             >
                                 Saiba mais

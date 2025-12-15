@@ -81,7 +81,7 @@ const Automation = () => {
 
                 <div className="mt-16 text-center">
                     <Button
-                        href="https://app.sollertis.com.br"
+                        href="https://wa.me/5534984251064?text=Opa%2C%20fala%20Isa%21%20Vim%20pelo%20site%20e%20queria%20saber%20mais%20sobre%20a%20empresa%21"
                         variant="secondary"
                     >
                         👉 Quero saber mais
