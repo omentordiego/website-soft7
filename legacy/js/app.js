@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    
+
     // Mobile Menu Toggle
     const mobileToggle = document.getElementById('mobile-toggle');
     const navMenu = document.getElementById('nav-menu');
@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
     accordionHeaders.forEach(header => {
         header.addEventListener('click', () => {
             const content = header.nextElementSibling;
-            
+
             // Toggle current
             if (content.style.maxHeight) {
                 content.style.maxHeight = null;
